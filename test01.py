@@ -1,5 +1,5 @@
 import unittest  # библиотека для модульного тестирования
-from main import add, subtract, multiply, divide, modulo, check  # импорт функций из main.py
+from main01 import add, subtract, multiply, divide, modulo, check  # импорт функций из main02.py
 
 # Тесты для математических операций
 class TestMath(unittest.TestCase):

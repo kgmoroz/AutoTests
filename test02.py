@@ -1,7 +1,7 @@
-# test.py
+# test02.py
 
 import pytest  # импортируем pytest
-from main import count_vowels  # импортируем нашу функцию из main.py
+from main02 import count_vowels  # импортируем нашу функцию из main02.py
 
 
 # Тест 1: строка содержит только гласные (строчные и заглавные)
